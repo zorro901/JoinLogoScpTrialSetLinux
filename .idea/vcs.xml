@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/modules/chapter_exe" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/modules/join_logo_scp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/modules/join_logo_scp_trial" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/modules/logoframe" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/modules/tsdivider" vcs="Git" />
+  </component>
+</project>
